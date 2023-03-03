@@ -7,4 +7,5 @@ echo $a+$b;
 $c=5;
 $d=8;
 echo $c*$d;
+echo $a/$c;
 ?>
